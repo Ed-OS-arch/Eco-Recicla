@@ -3,5 +3,5 @@
 <h4>Nuestro pricipal objetivo es de una aplicación propuesta es una herramienta para que los usuarios realicen un seguimiento y gestionen actividades específicas relacionadas con la sostenibilidad. 
 Además de ofrecer opciones de registro y seguimiento, la aplicación también proporcionará estadísticas y consejos personalizados para mejorar las prácticas de los usuarios.
 </h4>
- 
 
+<img src="https://lucid.app/lucidchart/eee4a017-748a-4584-8012-616930ceb832/edit?view_items=L_e-rDl4aYTo&invitationId=inv_8141376d-75ed-4263-bd7f-300cd180e845"/>
