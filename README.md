@@ -1,7 +1,7 @@
 ![Captura de pantalla 2024-07-30 113305](https://github.com/user-attachments/assets/de45d27f-70e5-42ca-9581-961cd94daa69)
 <h2>¿Cuál es nuestro principal objetivo?</h2>  
-<h4>Nuestro pricipal objetivo es de una aplicación propuesta es una herramienta para que los usuarios realicen un seguimiento y gestionen actividades específicas relacionadas con la sostenibilidad. 
+<p>Nuestro pricipal objetivo es de una aplicación propuesta es una herramienta para que los usuarios realicen un seguimiento y gestionen actividades específicas relacionadas con la sostenibilidad. 
 Además de ofrecer opciones de registro y seguimiento, la aplicación también proporcionará estadísticas y consejos personalizados para mejorar las prácticas de los usuarios.
-</h4>
+<p>
 
 <img src="https://lucid.app/lucidchart/eee4a017-748a-4584-8012-616930ceb832/edit?view_items=L_e-rDl4aYTo&invitationId=inv_8141376d-75ed-4263-bd7f-300cd180e845"/>
