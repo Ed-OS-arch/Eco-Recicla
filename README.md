@@ -3,5 +3,4 @@
 <p>Nuestro pricipal objetivo es de una aplicación propuesta es una herramienta para que los usuarios realicen un seguimiento y gestionen actividades específicas relacionadas con la sostenibilidad. 
 Además de ofrecer opciones de registro y seguimiento, la aplicación también proporcionará estadísticas y consejos personalizados para mejorar las prácticas de los usuarios.
 <p>
-Nuevo  Repositorio:
-https://github.com/narvalblue/Ecorecicla
+Nuevo  Repositorio: https://github.com/narvalblue/Ecorecicla
